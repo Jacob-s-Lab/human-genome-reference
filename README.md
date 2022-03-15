@@ -1,4 +1,5 @@
 # HumanGenome
+這是一份探討參考序列的專案，包含參考序列的內容組成、發展過程及各版本的差異介紹。我們定期關注Illumina, DRAGEN, GATK等從事定序分析的團隊，研究其使用的參考序列及社群文章，以提供參考序列的最新資訊    
 Here is the repo for the human genome reference files and other related files
 More information can be found [Reference genomes and Gene models impact on variant interpretation](https://bioinfo-diag.fr/wp-content/uploads/2019/10/BioinfoDiag_2019_EAY.pdf)
 
