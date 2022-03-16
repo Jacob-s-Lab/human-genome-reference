@@ -91,11 +91,13 @@ GRCh38還有版本更新，NCBI紀錄
 ## Reference
 > https://gatk.broadinstitute.org/hc/en-us/articles/360035890711-GRCh37-hg19-b37-humanG1Kv37-Human-Reference-Discrepancies.
 > 
+> https://gatk.broadinstitute.org/hc/en-us/articles/360035890951-Human-genome-reference-builds-GRCh38-or-hg38-b37-hg19
+> 
+> https://gatk.broadinstitute.org/hc/en-us/articles/360035891071-Reference-genome
+> 
 > https://www.ncbi.nlm.nih.gov/grc
 > 
 > https://www.ncbi.nlm.nih.gov/grc/help/definitions/
-> 
-> https://gatk.broadinstitute.org/hc/en-us/articles/360035890711-GRCh37-hg19-b37-humanG1Kv37-Human-Reference-Discrepancies#comparison
 > 
 > https://cloud.google.com/life-sciences/docs/resources/public-datasets/reference-genome
 > 
