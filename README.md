@@ -9,7 +9,7 @@ There are SO MANY different versions of human genome reference files for differe
 In general, there are several factors contributed to the version of reference genome including official release versions, alternative contigs, decoy sequence. 
 
 ### Release Version
-參考序列的建立與維護主要由 Genome Reference Consortium (https://www.ncbi.nlm.nih.gov/grc)負責，目前研究常用的版本為GRCh37及GRCh38兩版，而主要版本內也存在patch形式的小幅度序列更新，如2013更新的GRCh37.p13以及2019年更新的GRCh38.p13版序列；如同前面所述，版本內部差異主要在alternative contig及decoy sequence，以下將簡單介紹兩名詞與相關資訊。       
+參考序列的建立與維護主要由 Genome Reference Consortium (https://www.ncbi.nlm.nih.gov/grc) 負責，目前研究常用的版本為GRCh37及GRCh38兩版，而主要版本內也存在patch形式的小幅度序列更新，如2013更新的GRCh37.p13以及2019年更新的GRCh38.p13版序列；如同前面所述，版本內部差異主要在alternative contig及decoy sequence，以下將簡單介紹兩名詞與相關資訊。       
 Human genome reference is maintained by [Genome Reference Consortium] (https://www.ncbi.nlm.nih.gov/grc)
 Currently, two major releases GRCh37 and GRCh38 are widely adopted by many international genome projects.  
 Some regional fixes known as patches are also avalaible after each major assembly has been released.
