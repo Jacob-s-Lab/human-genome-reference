@@ -31,9 +31,3 @@ Colons can be used to align columns.
 
 ### Broad Institute
 Reference on [GCP] (https://console.cloud.google.com/storage/browser/gcp-public-data--broad-references;tab=objects?prefix=)
-
-### Illumina
-
-### DRAGEN
-
-### PacBio
