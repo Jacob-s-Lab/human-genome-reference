@@ -20,7 +20,7 @@ Here, I collected different versions of human genome
 
 ### Decoy
 decoy是已知無意義DNA序列，其產生過程可能和反轉錄病毒感染人體時，會將病毒序列鑲嵌至人類序列的特性；根據研究證實，將deccoy sequence納入可有效提升分析精準度，以下網址為illumina針對decoy的處理參考：
-https://support.illumina.com/content/dam/illumina-support/help/Illumina_DRAGEN_Bio_IT_Platform_v3_7_1000000141465/Content/SW/Informatics/Dragen/HandlingDecoyContigs_fDG.htm
+https://support.illumina.com/content/dam/illumina-support/help/Illumina_DRAGEN_Bio_IT_Platform_v3_7_1000000141465/Content/SW/Informatics/Dragen/HandlingDecoyContigs_fDG.htm.   
 Colons can be used to align columns.
 
 | Tables        | Source           | Name  |
@@ -28,7 +28,6 @@ Colons can be used to align columns.
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
-
 
 ### Broad Institute
 Reference on [GCP] (https://console.cloud.google.com/storage/browser/gcp-public-data--broad-references;tab=objects?prefix=)
