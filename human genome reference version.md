@@ -65,8 +65,8 @@ GRCh37還有版本更新，以下提供NCBI紀錄的出版及最新版的序列�
 
 * 補充：
 GRCh38還有版本更新，NCBI紀錄
-[GRCh38](https://www.ncbi.nlm.nih.gov/assembly/GCF_000001405.26/) (2013)
-[GRCh38.p13](https://www.ncbi.nlm.nih.gov/assembly/GCF_000001405.39/) (2019)
+[GRCh38](https://www.ncbi.nlm.nih.gov/assembly/GCA_000001405.29) (2022)
+[GRCh38.p14](https://www.ncbi.nlm.nih.gov/assembly/GCF_000001405.39/) (2019)
 
 ### 與GRCh37/hg19版的差異
 
